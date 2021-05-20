@@ -1,0 +1,22 @@
+{
+  "name": "temperature-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saroopya/temperature-app.git"
+  },
+  "author": "Saroopya Bachu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saroopya/temperature-app/issues"
+  },
+  "homepage": "https://github.com/Saroopya/temperature-app#readme",
+  "devDependencies": {
+    "electron": "^12.0.9"
+  }
+}
