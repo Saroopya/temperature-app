@@ -1,0 +1,25 @@
+{
+  "name": "temperature-app",
+  "version": "1.0.1",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saroopya/temperature-app.git"
+  },
+  "author": "Saroopya Bachu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saroopya/temperature-app/issues"
+  },
+  "homepage": "https://github.com/Saroopya/temperature-app#readme",
+  "devDependencies": {
+    "electron": "^12.0.7"
+  },
+  "dependencies": {
+    "systeminformation": "^5.7.0"
+  }
+}
